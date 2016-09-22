@@ -34,4 +34,8 @@ namespace _02.Harvest
         }
     }
 }
+<<<<<<< HEAD
 //Add a conflict and fix it
+=======
+//Add a conflict in new brach
+>>>>>>> 76cacb196eb5f477fecff917253154aff4dbc958
